@@ -1,0 +1,5 @@
+http://domain.com/dash/channel1/manifest.mpd
+http://domain.com/dash/channel2/manifest.mpd
+http://domain.com/dash/channel3/manifest.mpd
+http://domain.com/dash/channel4/manifest.mpd
+http://domain.com/dash/channel5/manifest.mpd
